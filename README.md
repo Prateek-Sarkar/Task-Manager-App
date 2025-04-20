@@ -40,7 +40,8 @@ flutter run
 
 Here are some screenshots of the Task Manager app:
 
+<img src="https://github.com/user-attachments/assets/528aef36-7fdd-4e42-b8ab-836c815eb086" width="300"/>
 <img src="https://github.com/user-attachments/assets/36bb920a-8f17-4108-bae7-57ff994c04dc" width="300"/>
 <img src="https://github.com/user-attachments/assets/24933164-a3f1-43be-af1d-efffb6c2a78a" width="300"/>
-<img src="https://github.com/user-attachments/assets/c8c62acf-1238-40cb-9a91-63edb04d0940" width="300"/>
-<img src="https://github.com/user-attachments/assets/528aef36-7fdd-4e42-b8ab-836c815eb086" width="300"/>
+
+
